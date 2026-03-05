@@ -3,5 +3,5 @@ command = "npm run build"
 publish = "dist"
 
 [build.environment]
-NEXT_PUBLIC_SUPABASE_URL = "https://your-project.supabase.co"
-NEXT_PUBLIC_SUPABASE_ANON_KEY = "your-anon-key"
+NEXT_PUBLIC_SUPABASE_URL = "https://libeanwpnpjipswwzrhs.supabase.co"
+NEXT_PUBLIC_SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxpYmVhbndwbnBqaXBzd3d6cmhzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzI3NTE2NzYsImV4cCI6MjA4ODMyNzY3Nn0.U-dpHZ6H1HRWH3j4UkfOe8UpCyTeIy_8-T4K_Mwgoag"
