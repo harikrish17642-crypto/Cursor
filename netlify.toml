@@ -1,6 +1,6 @@
 [build]
-command = "npm install && npm run build || cp -r public dist"
-publish = "dist"
+command = "echo 'Static site ready'"
+publish = "public"
 
 [build.environment]
 NEXT_PUBLIC_SUPABASE_URL = "https://libeanwpnpjipswwzrhs.supabase.co"
